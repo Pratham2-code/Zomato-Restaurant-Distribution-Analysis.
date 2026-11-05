@@ -1,0 +1,125 @@
+restaurant_name,city,cuisines,aggregate_rating,city_avg_rating,rating_diff,votes
+"Coco Bambu",Brasí_lia,International,4.9,3.68,1.22,30
+"Ministry of Crab",Colombo,Seafood,4.9,3.87,1.03,203
+"Yo! China",Faridabad,Chinese,4.1,3.1,1,239
+"Cafí© Bogchi",Faridabad,"Cafe, Italian, Mexican, Continental",4.1,3.1,1,153
+"Cafe Parmesan",Faridabad,Italian,4.5,3.1,1.4,799
+"Boombox Brewstreet",Gurgaon,"North Indian, Italian, Chinese, American",4.4,3.33,1.07,391
+"Downtown - Diners & Living Beer Cafe",Gurgaon,"North Indian, Chinese, Italian, Continental",4.4,3.33,1.07,3569
+"PitStop BrewPub",Gurgaon,"Continental, Italian, North Indian, Mughlai",4.4,3.33,1.07,166
+"The Classroom",Gurgaon,"North Indian, Italian, Parsi, Asian, Kerala",4.4,3.33,1.07,146
+Twigly,Gurgaon,"Asian, Continental, Fast Food",4.5,3.33,1.17,76
+"Indian Grill Room",Gurgaon,"North Indian, Mughlai",4.5,3.33,1.17,1262
+"Burma Burma",Gurgaon,"Asian, Burmese",4.6,3.33,1.27,563
+"Pier 38",Gurgaon,"Persian, Arabian, Lebanese, North Indian",4.6,3.33,1.27,177
+"Yum Yum Cha",Gurgaon,"Chinese, Japanese, Sushi",4.5,3.33,1.17,407
+Twigly,Gurgaon,"Continental, Italian, Pizza, Asian",4.6,3.33,1.27,395
+Caterspoint,Gurgaon,"Mexican, American, Healthy Food",4.9,3.33,1.57,223
+"Cafe Gatherings",Gurgaon,"Cafe, Continental",4.4,3.33,1.07,161
+"The Mad Teapot/The Wishing Chair",Gurgaon,"Cafe, Italian, Bakery",4.4,3.33,1.07,83
+"Manhattan Brewery & Bar Exchange",Gurgaon,"Finger Food, American, Continental, North Indian, Italian",4.6,3.33,1.27,2093
+Dudleys,Gurgaon,"American, Continental, Burger",4.6,3.33,1.27,150
+"feel ALIVE",Gurgaon,"North Indian, American, Asian, Biryani",4.7,3.33,1.37,69
+Matchbox,Gurgaon,"Continental, North Indian, Chinese",4.8,3.33,1.47,245
+Prankster,Gurgaon,"Modern Indian, North Indian",4.8,3.33,1.47,1478
+"Jom Jom Malay","New Delhi","Malaysian, Indonesian",4.4,3.3,1.1,77
+"Giani's di Hatti","New Delhi","Ice Cream, Mithai, North Indian, Street Food",4.3,3.3,1,521
+"Lakhori - Haveli Dharampura","New Delhi","Mughlai, Street Food",4.4,3.3,1.1,305
+"Kuremal Mohan Lal Kulfi Wale","New Delhi","Ice Cream",4.5,3.3,1.2,545
+"MOB Brewpub","New Delhi","Continental, Italian, Asian, Indian",4.7,3.3,1.4,52
+"Naturals Ice Cream","New Delhi","Ice Cream",4.9,3.3,1.6,2620
+"Zabardast Indian Kitchen","New Delhi","North Indian",4.7,3.3,1.4,242
+"38 Barracks","New Delhi","North Indian, Italian, Asian, American",4.4,3.3,1.1,840
+"Farzi Cafe","New Delhi","Modern Indian",4.4,3.3,1.1,1942
+HotMess,"New Delhi","North Indian, Mediterranean, Asian, Fast Food",4.3,3.3,1,1129
+"Saravana Bhavan","New Delhi","South Indian",4.3,3.3,1,5172
+"The G.T. Road","New Delhi","North Indian, Afghani, Mughlai",4.3,3.3,1,104
+"Wenger's Deli","New Delhi","Bakery, Desserts, Fast Food",4.3,3.3,1,1457
+Wenger's,"New Delhi","Bakery, Fast Food, Desserts",4.3,3.3,1,3591
+"Cafe Yell","New Delhi","Cafe, Continental, Italian",4.4,3.3,1.1,50
+"Spezia Bistro","New Delhi","Cafe, Continental, Chinese, Italian",4.6,3.3,1.3,1071
+"Raw Creams","New Delhi","Ice Cream, Desserts, Beverages",4.3,3.3,1,156
+Ricos,"New Delhi","Cafe, Mexican, American, Italian, Lebanese, Continental",4.3,3.3,1,4085
+"The Hudson Cafe","New Delhi","Cafe, Italian, Continental, Chinese",4.4,3.3,1.1,1537
+"Big Chill","New Delhi","Italian, Continental, European, Cafe",4.4,3.3,1.1,2777
+"The Flying Saucer Cafe","New Delhi","Italian, Mediterranean, Continental, North Indian",4.3,3.3,1,3002
+"Indian Accent - The Manor","New Delhi","Modern Indian",4.9,3.3,1.6,1934
+"Owl is Well","New Delhi","Burger, American, Fast Food, Italian, Pizza",4.5,3.3,1.2,162
+"Karate Kitchen","New Delhi","Asian, Chinese, Thai",4.4,3.3,1.1,42
+"Sakley's The Mountain Cafe","New Delhi","Cafe, Italian, Continental, Fast Food",4.3,3.3,1,1327
+"Stop My Starvation","New Delhi","Desserts, Fast Food",4.3,3.3,1,83
+Tashan,"New Delhi","Modern Indian",4.6,3.3,1.3,304
+Baris,"New Delhi","Turkish, Mediterranean, Middle Eastern",4.3,3.3,1,43
+"Carnatic Cafe","New Delhi","South Indian",4.4,3.3,1.1,400
+"Chhalava - ö__Lava","New Delhi","North Indian, Italian, Continental",4.4,3.3,1.1,80
+"Feng Shuii","New Delhi","Thai, Chinese",4.3,3.3,1,31
+"Big Yellow Door","New Delhi","Cafe, Fast Food, Italian",4.3,3.3,1,214
+"Natural Ice Cream","New Delhi","Ice Cream",4.5,3.3,1.2,67
+"Coast Cafe","New Delhi","Continental, Kerala",4.5,3.3,1.2,1033
+"Hauz Khas Social","New Delhi","Continental, American, Asian, North Indian",4.3,3.3,1,7931
+"Rang De Basanti Urban Dhaba","New Delhi","North Indian",4.4,3.3,1.1,541
+"Bukhara - ITC Maurya","New Delhi","North Indian",4.4,3.3,1.1,2826
+"Qureshi Kabab Corner","New Delhi",Mughlai,4.3,3.3,1,76
+"Midnight Hunger Hub","New Delhi","North Indian, Fast Food, Italian, Asian",4.5,3.3,1.2,50
+"Food Scouts","New Delhi","North Indian, Chinese, Continental",4.3,3.3,1,22
+"Masala Library","New Delhi","Modern Indian",4.9,3.3,1.6,408
+"Natural Ice Cream","New Delhi","Ice Cream",4.5,3.3,1.2,665
+"Big Chill","New Delhi","Italian, Continental, European, Cafe",4.4,3.3,1.1,1521
+"Uncultured Cafe & Bar","New Delhi","Continental, Chinese, Italian, Finger Food",4.3,3.3,1,90
+"The Feast House","New Delhi","Continental, North Indian, American, Italian, Mexican",4.3,3.3,1,142
+Zaffran,"New Delhi","North Indian, Mughlai",4.5,3.3,1.2,524
+"Big Chill","New Delhi","Italian, Continental, European, Cafe",4.5,3.3,1.2,4986
+"Big Chill","New Delhi","Italian, Continental, European, Cafe",4.6,3.3,1.3,1569
+"The Big Chill Cakery","New Delhi","Bakery, Desserts",4.4,3.3,1.1,912
+"Dilli BC","New Delhi","North Indian, Mughlai",4.4,3.3,1.1,84
+"Stop My Starvation","New Delhi","Cafe, Desserts",4.3,3.3,1,126
+Madaari,"New Delhi","North Indian, Chinese, Continental, Italian",4.3,3.3,1,113
+"Oh! Calcutta","New Delhi","Bengali, Seafood",4.4,3.3,1.1,1293
+"Sita Ram Diwan Chand","New Delhi","Street Food",4.3,3.3,1,1317
+"Big Wong","New Delhi","Chinese, Thai",4.3,3.3,1,108
+"Chor Bizarre","New Delhi","North Indian",4.4,3.3,1.1,64
+Gulati,"New Delhi","North Indian, Mughlai",4.4,3.3,1.1,4373
+"Cafe Lota","New Delhi","North Indian, South Indian, Bihari",4.5,3.3,1.2,2213
+"Food Scouts","New Delhi","North Indian, Chinese, Continental",4.6,3.3,1.3,61
+Locale,"New Delhi","North Indian, Chinese, Mexican, Italian, Thai, Lebanese",4.4,3.3,1.1,317
+"The Coffee Shop","New Delhi","Cafe, Italian",4.4,3.3,1.1,326
+"Neung Roi - Radisson Blu Plaza Delhi","New Delhi",Thai,4.5,3.3,1.2,295
+"NYC - Radisson Blu Plaza Delhi","New Delhi","North Indian, Continental, Italian",4.4,3.3,1.1,315
+"Band Baaja Baaraat","New Delhi","North Indian",4.6,3.3,1.3,128
+"Kopper Kadai","New Delhi","North Indian",4.8,3.3,1.5,83
+"Naturals Ice Cream","New Delhi","Ice Cream",4.7,3.3,1.4,474
+"Qubitos - The Terrace Cafe","New Delhi","Thai, European, Mexican, North Indian, Chinese, Cafe",4.5,3.3,1.2,778
+"The California Boulevard","New Delhi","American, Asian, European, Seafood",4.6,3.3,1.3,1691
+"Food Scouts","New Delhi","North Indian, Chinese, Continental",4.4,3.3,1.1,229
+"Ghar Bistro Cafe","New Delhi","Continental, North Indian, Chinese, Mughlai, Asian",4.4,3.3,1.1,153
+"Lights Camera Action - Air Bar","New Delhi","North Indian, Continental",4.4,3.3,1.1,1636
+"Midnight Hunger Hub","New Delhi","North Indian, Fast Food, Italian, Asian",4.3,3.3,1,58
+"National Highway 44","New Delhi","Kashmiri, North Indian, Mughlai, South Indian, Maharashtrian, Gujarati",4.4,3.3,1.1,676
+"Dirty Apron","New Delhi","European, Asian",4.3,3.3,1,96
+"Rajinder Da Dhaba","New Delhi","North Indian, Mughlai, Chinese",4.3,3.3,1,3530
+"Blue Tokai Coffee Roasters","New Delhi",Cafe,4.4,3.3,1.1,269
+"Echoes Satyaniketan","New Delhi","Cafe, Continental, Italian, Mexican, Chinese, American",4.7,3.3,1.4,1563
+Burgrill,"New Delhi","Burger, Fast Food",4.4,3.3,1.1,178
+"Pa Pa Ya","New Delhi","Asian, Chinese, Thai, Japanese",4.7,3.3,1.4,268
+"Andrea's Eatery","New Delhi","Italian, Mexican, Spanish, Thai, Vietnamese, Indonesian, American",4.3,3.3,1,130
+"Greenr Cafe","New Delhi",Cafe,4.6,3.3,1.3,112
+Puppychino,"New Delhi","Cafe, Continental, Italian",4.4,3.3,1.1,165
+"The Last Mughal (TLM)","New Delhi","North Indian, Mughlai",4.4,3.3,1.1,52
+"Tamra - Shangri-La's - Eros Hotel","New Delhi","North Indian, Continental, European, Chinese, Thai",4.3,3.3,1,400
+"Punjab Grill","New Delhi","North Indian",4.3,3.3,1,1252
+"Zerruco - The Ashok","New Delhi","Mediterranean, Italian",4.4,3.3,1.1,609
+"Sevilla - The Claridges","New Delhi","Spanish, Italian",4.3,3.3,1,800
+"Perch Wine & Coffee Bar","New Delhi","Cafe, European",4.3,3.3,1,114
+"Cafeteria & Co.","New Delhi","Continental, Mexican",4.6,3.3,1.3,1136
+"Big Yellow Door","New Delhi","Cafe, Italian, Fast Food",4.3,3.3,1,3986
+Tony's,"New Delhi","Fast Food",4.4,3.3,1.1,163
+"Oh So Stoned!",Noida,Desserts,4.5,3.16,1.34,324
+"The Big Chill Cakery",Noida,"Bakery, Desserts",4.5,3.16,1.34,147
+Mamagoto,Noida,"Asian, Thai, Chinese",4.3,3.16,1.14,428
+"The Bento Cafe",Noida,"Asian, Chinese, Japanese",4.2,3.16,1.04,316
+"DIOS The Neighbourhood Bistro",Noida,"Continental, Fast Food, Italian",4.2,3.16,1.04,108
+"Barbeque Nation",Noida,"North Indian, Chinese, Mediterranean",4.3,3.16,1.14,1670
+"Mad Over Donuts",Noida,Desserts,4.2,3.16,1.04,235
+"Bistro 37",Noida,"Fast Food, Chinese",4.3,3.16,1.14,1005
+"Desi Swag",Noida,"North Indian, Mughlai",4.3,3.16,1.14,96
+"Kalpak Restaurant & Cafe",Noida,"North Indian, Chinese",4.3,3.16,1.14,150
